@@ -691,3 +691,15 @@ Primary use:
 .social-icon-box {
   background: #fffffff0 !important;
 }
+
+.l1-txt1 {
+  font-family: revert-layer;
+  font-size: 80px;
+}
+
+.flex-sb-m {
+  -ms-align-items: center;
+  align-items: center;
+  margin-top: 17rem;
+  margin-bottom: -5rem;
+}
